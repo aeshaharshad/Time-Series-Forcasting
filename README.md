@@ -97,21 +97,3 @@ Metrics used:
 | Seasonal Naive     | ~4.61 |
 | SARIMA             | ~8.90 |
 | SARIMA + Exogenous | ~19.21 (CV) |
-
----
-
-## 🛠️ Tech Stack
-
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- StatsForecast
-- UtilsForecast
-
----
-
-## 🚀 Installation
-
-```bash
-pip install numpy pandas matplotlib statsforecast utilsforecast
